@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @matthew-badger
 - 👀 I’m interested in geometric measure theory
-- 📫 How to reach me https://badger.math.uconn.edu/
+- 📫 How to reach me https://tangentmeasure.com
